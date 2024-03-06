@@ -1,8 +1,10 @@
+// Function displayproj2_A
 public String displayproj2_A() {
 // display displayproj2_A
   return "displayproj2_A";
 }
 
+// Function displayproj2_B
 public String displayproj2_B() {
 // display displayproj2_B
   return "displayproj2_B";
