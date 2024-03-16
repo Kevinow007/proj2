@@ -9,3 +9,9 @@ public String displayproj2_B() {
 // display displayproj2_B
   return "displayproj2_B";
 }
+
+// Function displayproj2_C
+public String displayproj2_C() {
+// display displayproj2_C
+  return "displayproj2_C";
+}
