@@ -15,3 +15,7 @@ public String displayproj2_C() {
 // display displayproj2_C
   return "displayproj2_C";
 }
+
+public String Concat() {
+return displayproj2_A + " " + displayproj2_B + " " + displayproj2_C;
+}
